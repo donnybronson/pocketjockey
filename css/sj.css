@@ -1,0 +1,15 @@
+.backflash {
+  background-image: url("../img/bg.jpg");
+  background-repeat: no-repeat;
+  background-size:100% auto;
+   }
+   
+button{
+background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+  
